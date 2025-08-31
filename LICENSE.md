@@ -1,4 +1,4 @@
-MIT License
+METS License
 
 Copyright (c) 2024 Ethan Green
 f
